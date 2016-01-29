@@ -110,3 +110,4 @@ We can do this via the `ng-app` HTML attribute Angular makes available for us. A
 
 - [Todd Motto's guide for Angular Modules, Setters & Getters](https://toddmotto.com/angular-modules-setters-getters/)
 - [Angular Documentation for Modules](https://docs.angularjs.org/guide/module)
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/angular-modules-readme' title='angular-modules-readme'>angular-modules-readme</a> on Learn.co and start learning to code for free.</p>
