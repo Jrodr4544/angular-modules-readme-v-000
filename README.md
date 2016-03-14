@@ -23,7 +23,7 @@ Why do we split our application into modules? Modules allow us to separate our a
 - Each reusable component in your application
 - An application module that our application uses as a base
 
-Angular comes with a lot of plugins available on the web. Each one of these will be it's own module - meaning that you can just slot it into your application and not have to worry about it interfering with any other aspects of your app!
+Angular comes with a lot of plugins available on the web. Each one of these will be its own module - meaning that you can just slot it into your application and not have to worry about it interfering with any other aspects of your app!
 
 ## Setter/getter syntax
 
