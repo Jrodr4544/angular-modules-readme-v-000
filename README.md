@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lesson we're going to go into modules and how to create and load our own. You'll recognise the syntax from our previous module!
+In this lesson we're going to go into modules and how to create and load our own. You'll recognize the syntax from our previous module!
 
 ## Objectives
 
@@ -113,3 +113,5 @@ We can do this via the `ng-app` HTML attribute Angular makes available for us. A
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/angular-modules-readme' title='angular-modules-readme'>angular-modules-readme</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/angular-modules-readme'>Angular Modules</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/angular-modules-readme'>Angular Modules</a> on Learn.co and start learning to code for free.</p>
